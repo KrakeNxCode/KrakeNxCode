@@ -1,16 +1,18 @@
-### Hi there 👋
+<h2 align = "center"> Heyy, Bishal here 👋 </h2>
+<img src="" width='1000'>
 
-<!--
-**KrakeNxCode/KrakeNxCode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2> About me </h2>
 
-Here are some ideas to get you started:
+👨🏻‍💻 I’m a Computer Science sophomore undergraduate student at Kalinga Institute of Industrial Technology, Odisha. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔭 I’m currently working on Backend Development using Django.
+
+🌱 I’m currently learning and exploring Data Structures and Algorithms, Web Development.
+
+⚡️ Interests: Competitive Programming. 
+
+🍪 Other interests: Marvel & Gaming.
+
+📫 How to reach me: Bishal1203@gmail.com
+
+😄 Pronouns: He/Him.
